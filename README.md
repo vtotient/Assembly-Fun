@@ -13,4 +13,7 @@ When KEY0 on the DE1 board is pushed, the current process is interuppted and thi
 Implements blocked matrix multiplication. More optimal than simple matrix multiplication. An example of when writing Assembly 
 is more advantageous than writing C.
 
-To see more assembly check out https://github.com/vtotient/orc/blob/master/vic/seven_seg_official.asm.
+### seven_segment.asm
+Not written for the DE1-SoC rather an AT89 microprocessor. This code drives a seven segment display using an interupt service routine. 
+
+To see more assembly check out https://github.com/vtotient/orc.

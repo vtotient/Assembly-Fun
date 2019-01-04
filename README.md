@@ -12,3 +12,5 @@ When KEY0 on the DE1 board is pushed, the current process is interuppted and thi
 ### blocked.s
 Implements blocked matrix multiplication. More optimal than simple matrix multiplication. An example of when writing Assembly 
 is more advantageous than writing C.
+
+To see more assembly check out https://github.com/vtotient/orc/blob/master/vic/seven_seg_official.asm.
